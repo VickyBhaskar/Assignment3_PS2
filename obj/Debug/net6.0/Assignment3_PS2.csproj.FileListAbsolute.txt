@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\bin\Debug\net6.0\Assignment3_PS2.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\bin\Debug\net6.0\Assignment3_PS2.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\bin\Debug\net6.0\Assignment3_PS2.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\bin\Debug\net6.0\Assignment3_PS2.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\bin\Debug\net6.0\Assignment3_PS2.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\refint\Assignment3_PS2.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\Assignment3_PS2.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\Assignment3_PS2\Assignment3_PS2\obj\Debug\net6.0\ref\Assignment3_PS2.dll
